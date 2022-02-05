@@ -1,4 +1,4 @@
-<h1 align="center">RocketNews</h1>
+<h1 align="center">Social Tree - Challenge Discover</h1>
 
 <!-- <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/rocketnews?color=56BEB8">
@@ -51,7 +51,7 @@ The Social Tree is project in links all in one page. This challenge is a study p
 ## :sparkles: Features
 
 :heavy_check_mark: Add image in profile;\
-:heavy_check_mark: adicionar uma lista de links que vai levar os usuários para outro site.;\
+:heavy_check_mark: Add a list of links that will take users to another site;\
 :heavy_check_mark: Button icons with link to other social networks;
 
 ## :rocket: Technologies
