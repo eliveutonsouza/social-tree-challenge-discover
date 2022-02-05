@@ -1,4 +1,4 @@
-<h1 align="center">RocketNews</h1>
+<h1 align="center">Social Tree</h1>
 
 <!-- <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/rocketnews?color=56BEB8">
